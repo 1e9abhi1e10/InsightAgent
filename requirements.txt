@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+google-genai>=1.0.0
+pandas>=2.2.0
+plotly>=5.20.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+# Web app backend (FastAPI) — also used for the Vercel deployment
+fastapi>=0.110.0
+uvicorn>=0.29.0
